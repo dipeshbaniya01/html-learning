@@ -1,0 +1,10 @@
+<html>
+<head>
+<tittle>creating a form</tittle>
+<</head>
+<body>
+<h1>sign up form</h1>
+<form method = post action= "http://ekantipur.com/gather_info">
+<p>Name:<input type="text" Name = "user ID" size = "20">
+<p>Address:<input type="text" Name = "Address" size = "50">
+<p><input type ="radio" name =
